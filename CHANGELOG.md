@@ -1,3 +1,15 @@
+# v0.2.3 (Fri Feb 18 2022)
+
+#### ⚠️ Pushed to `master`
+
+- Update README.md ([@chris-heyer-planetly](https://github.com/chris-heyer-planetly))
+
+#### Authors: 1
+
+- [@chris-heyer-planetly](https://github.com/chris-heyer-planetly)
+
+---
+
 # v0.2.2 (Fri Feb 18 2022)
 
 #### ⚠️ Pushed to `master`
