@@ -1,3 +1,16 @@
+# v0.2.0 (Fri Feb 18 2022)
+
+#### 🚀 Enhancement
+
+- Add typography [#1](https://github.com/chris-heyer-planetly/npm-package-example/pull/1) ([@cheyer](https://github.com/cheyer) [@chris-heyer-planetly](https://github.com/chris-heyer-planetly))
+
+#### Authors: 2
+
+- [@chris-heyer-planetly](https://github.com/chris-heyer-planetly)
+- Chris Heyer ([@cheyer](https://github.com/cheyer))
+
+---
+
 # v0.1.1 (Fri Feb 18 2022)
 
 #### ⚠️ Pushed to `master`
