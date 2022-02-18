@@ -1,3 +1,16 @@
+# v0.2.1 (Fri Feb 18 2022)
+
+#### 🐛 Bug Fix
+
+- Deploy Storybook to GH Pages [#2](https://github.com/chris-heyer-planetly/npm-package-example/pull/2) ([@cheyer](https://github.com/cheyer) [@chris-heyer-planetly](https://github.com/chris-heyer-planetly))
+
+#### Authors: 2
+
+- [@chris-heyer-planetly](https://github.com/chris-heyer-planetly)
+- Chris Heyer ([@cheyer](https://github.com/cheyer))
+
+---
+
 # v0.2.0 (Fri Feb 18 2022)
 
 #### 🚀 Enhancement
