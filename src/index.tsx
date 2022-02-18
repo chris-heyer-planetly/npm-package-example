@@ -1,5 +1,6 @@
-import {Button} from './components/Button/Button'
+export { Button } from './components/Button/Button'
+export { Typography } from './components/Typography/Typography'
 
 const helperFunction = () => null
 
-export {Button, helperFunction}
+export { helperFunction }
