@@ -5,6 +5,6 @@
 - [NPM Package](https://www.npmjs.com/package/@cheyer/npm-package-example)
 
 
-The Storybook design system tutorial is a subset of the full [Storybook design system](https://github.com/storybookjs/design-system/), created as a learning resource for those interested in learning how to write and publish a design system using best in practice techniques.
-
-Learn more in [Storybook tutorials](https://storybook.js.org/tutorials/).
+### References
+- [How to publish Storybook Docs with Github Pages](https://dev.to/kouts/deploy-storybook-to-github-pages-3bij#:~:text=Enable%20GitHub%20Pages,docs%20folder%20in%20our%20repository.)
+- [How to create UI library NPM package](https://storybook.js.org/tutorials/design-systems-for-developers/react/en/distribute/)
