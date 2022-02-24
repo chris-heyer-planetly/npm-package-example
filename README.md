@@ -1,4 +1,19 @@
-# Storybook design system tutorial
+# UI Library Example
+
+
+### Getting Started
+```
+$ yarn
+
+$ yarn start
+```
+This will start storybook which is also used as development environment for the stories.
+
+### Release Process
+This repository uses `auto` to automatically generate releases and publish them to **npm**. Also storybook is build and published with github pages.
+
+In order to create a release, simply tag your PR with `patch`, `minor` or `major` labels.
+
 
 ### Links
 - [UI Library Storybook](https://chris-heyer-planetly.github.io/npm-package-example/)
