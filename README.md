@@ -1,4 +1,8 @@
 # UI Library Example
+Shareable UI components library
+- automated release process with [auto](https://github.com/intuit/auto)
+- published as [npm package](https://www.npmjs.com/package/@cheyer/npm-package-example)
+- storybook docs deployed with [github pages](https://chris-heyer-planetly.github.io/npm-package-example/) so it can be used as a ref design system
 
 
 ### Getting Started
