@@ -14,6 +14,10 @@ This repository uses `auto` to automatically generate releases and publish them 
 
 In order to create a release, simply tag your PR with `patch`, `minor` or `major` labels.
 
+### Further Ideas
+- **Private Package**: Make the npm package private
+- **Auto Updates**: Auto update dependency version in consumers with dependabot
+
 
 ### Links
 - [UI Library Storybook](https://chris-heyer-planetly.github.io/npm-package-example/)
