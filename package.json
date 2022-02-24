@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "cross-env BABEL_ENV=production babel --extensions .ts,.tsx src -d dist",
+    "build": "tsc && cross-env BABEL_ENV=production babel --extensions .ts,.tsx src -d dist",
     "release": "auto shipit --base-branch=master",
     "start": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -o docs-build -s public"
