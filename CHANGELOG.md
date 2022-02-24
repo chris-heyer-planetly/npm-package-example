@@ -1,3 +1,15 @@
+# v1.0.0 (Thu Feb 24 2022)
+
+#### 💥 Breaking Change
+
+- Release 1.0.0 [#4](https://github.com/chris-heyer-planetly/npm-package-example/pull/4) ([@chris-heyer-planetly](https://github.com/chris-heyer-planetly))
+
+#### Authors: 1
+
+- [@chris-heyer-planetly](https://github.com/chris-heyer-planetly)
+
+---
+
 # v0.3.4 (Thu Feb 24 2022)
 
 #### ⚠️ Pushed to `master`
