@@ -1,8 +1,9 @@
 # Storybook design system tutorial
 
 ### Links
-- [Deployed Storybook](https://chris-heyer-planetly.github.io/npm-package-example/)
-- [NPM Package](https://www.npmjs.com/package/@cheyer/npm-package-example)
+- [UI Library Storybook](https://chris-heyer-planetly.github.io/npm-package-example/)
+- [UI Library Consumer Github](https://github.com/chris-heyer-planetly/npm-package-consumer-example/)
+- [UI Library NPM Package](https://www.npmjs.com/package/@cheyer/npm-package-example)
 
 
 ### References
