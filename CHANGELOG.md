@@ -1,3 +1,15 @@
+# v0.3.0 (Thu Feb 24 2022)
+
+#### 🚀 Enhancement
+
+- Also build type definitions [#3](https://github.com/chris-heyer-planetly/npm-package-example/pull/3) ([@chris-heyer-planetly](https://github.com/chris-heyer-planetly))
+
+#### Authors: 1
+
+- [@chris-heyer-planetly](https://github.com/chris-heyer-planetly)
+
+---
+
 # v0.2.3 (Fri Feb 18 2022)
 
 #### ⚠️ Pushed to `master`
