@@ -1,3 +1,16 @@
+# v0.3.1 (Thu Feb 24 2022)
+
+#### ⚠️ Pushed to `master`
+
+- Update README.md ([@chris-heyer-planetly](https://github.com/chris-heyer-planetly))
+- Deploying to master from @ 6bd4dea9211e01d791a1e1d73513d571dc433aad 🚀 ([@chris-heyer-planetly](https://github.com/chris-heyer-planetly))
+
+#### Authors: 1
+
+- [@chris-heyer-planetly](https://github.com/chris-heyer-planetly)
+
+---
+
 # v0.3.0 (Thu Feb 24 2022)
 
 #### 🚀 Enhancement
