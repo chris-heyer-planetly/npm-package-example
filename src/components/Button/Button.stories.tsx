@@ -24,3 +24,9 @@ Secondary.args = {
   primary: false,
 };
 
+export const Href = Template.bind({});
+Href.args = {
+  label: 'Button',
+  href: 'https://google.com',
+};
+
