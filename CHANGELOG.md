@@ -1,3 +1,15 @@
+# v1.1.0 (Thu Feb 24 2022)
+
+#### 🚀 Enhancement
+
+- Add Link Button [#5](https://github.com/chris-heyer-planetly/npm-package-example/pull/5) ([@chris-heyer-planetly](https://github.com/chris-heyer-planetly))
+
+#### Authors: 1
+
+- [@chris-heyer-planetly](https://github.com/chris-heyer-planetly)
+
+---
+
 # v1.0.0 (Thu Feb 24 2022)
 
 #### 💥 Breaking Change
