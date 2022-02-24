@@ -1,13 +1,13 @@
 import React from 'react';
 
-interface TypographyProps {
+export interface TypographyProps {
     type: 'title' | 'body';
 }
 
 export const Typography: React.FC<TypographyProps> = ({ type, children }) => {
     if (type === 'title') {
-        return <h1>{children}</h1>
+        return <h1 style={{ fontFamily: "Arial, sans-serif" }}>{children}</h1>
     }
 
-    return <p>{children}</p>
+    return <p style={{ fontFamily: "Arial, sans-serif" }}>{children}</p>
 }
